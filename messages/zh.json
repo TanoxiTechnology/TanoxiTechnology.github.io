@@ -1,0 +1,124 @@
+{
+  "common": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "cart": "购物车",
+    "addToCart": "加入购物车",
+    "contactUs": "联系我们",
+    "backToProducts": "返回产品页"
+  },
+  "home": {
+    "hero": {
+      "title": "欢迎来到 拓诺稀科技",
+      "subtitle": "我们是一支来自香港科技大学（广州）的研发团队，深耕氧化镓材料与器件研发，用原创技术打造属于中国的第四代半导体解决方案。",
+      "browseProducts": "浏览产品"
+    },
+    "featuredCategories": {
+      "title": "特色分类",
+      "viewProducts": "查看产品"
+    },
+    "whyChooseUs": {
+      "title": "为什么选择我们",
+      "quality": {
+        "title": "优质产品",
+        "description": "我们确保所有产品都符合最高质量标准"
+      },
+      "support": {
+        "title": "24/7 支持",
+        "description": "我们的客服团队随时为您提供帮助"
+      },
+      "prices": {
+        "title": "最优价格",
+        "description": "所有产品都具有竞争力的价格"
+      }
+    }
+  },
+  "products": {
+    "categories": "分类",
+    "all": "全部",
+    "addedToCart": "%s 已添加到购物车！",
+    "categoryNames": {
+      "Electronics": "电子产品",
+      "Accessories": "配件"
+    },
+    "keyFeatures": "主要特点",
+    "specifications": "规格参数"
+  },
+  "about": {
+    "title": "关于 Tanoxi Technology",
+    "introduction": "2022年，我们在粤港澳大湾区的核心——广州南沙，创立了拓诺稀科技。以香港科技大学（广州）为创新引擎，集结全球顶尖人才，深耕第四代宽禁带半导体技术领域。",
+    "commitment": "拓诺稀科技坚持自主研发，我们申请了7项核心技术专利，覆盖氧化镓外延生长工艺、离子注入掺杂方法及器件结构设计等关键环节。",
+    "mission": {
+      "title": "我们的使命",
+      "description": "拓诺稀科技的使命，就是让氧化镓半导体技术真正走向产业，走向世界。以创新为驱动，以技术为桥梁——拓诺稀科技，引领未来半导体发展的新方向！"
+    },
+    "vision": {
+      "title": "我们的愿景",
+      "description": "我们致力于推动氧化镓在新一代半导体技术中的革命性应用。"
+    },
+    "values": {
+      "title": "我们的核心价值观",
+      "quality": {
+        "title": "质量",
+        "description": "我们绝不在产品质量上妥协"
+      },
+      "integrity": {
+        "title": "诚信",
+        "description": "我们以最高的道德标准开展业务"
+      },
+      "customerFirst": {
+        "title": "客户至上",
+        "description": "客户满意是我们的首要任务"
+      },
+      "innovation": {
+        "title": "创新",
+        "description": "我们不断努力改进和创新"
+      }
+    },
+    "team": {
+      "title": "我们的团队",
+      "members": {
+        "member1": {
+          "name": "陈萱",
+          "role": "首席执行官兼创始人"
+        },
+        "member2": {
+          "name": "张明",
+          "role": "运营经理"
+        },
+        "member3": {
+          "name": "王丽",
+          "role": "客户关系主管"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮箱",
+      "phone": "电话（可选）",
+      "message": "留言",
+      "send": "发送留言",
+      "success": "感谢您的留言，我们会尽快回复您！"
+    },
+    "info": {
+      "email": "电子邮箱",
+      "phone": "电话",
+      "address": "地址"
+    }
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "购物车是空的",
+    "browseProducts": "浏览我们的产品并添加到购物车",
+    "orderSummary": "订单摘要",
+    "total": "总计",
+    "remove": "移除",
+    "quantity": "数量",
+    "contactPurchase": "联系购买"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "common": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "addToCart": "Add to Cart",
+    "contactUs": "Contact Us",
+    "backToProducts": "Back to Products"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Tanoxi Technology",
+      "subtitle": "We are a research and development team from HKUST(GZ), dedicated to advancing gallium oxide materials and devices. With original innovations, we aim to create China’s own fourth-generation semiconductor solutions.",
+      "browseProducts": "Browse Products"
+    },
+    "featuredCategories": {
+      "title": "Featured Categories",
+      "viewProducts": "View Products"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us",
+      "quality": {
+        "title": "Quality Products",
+        "description": "We ensure all our products meet the highest quality standards"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our customer support team is always ready to help you"
+      },
+      "prices": {
+        "title": "Best Prices",
+        "description": "Competitive prices on all our products"
+      }
+    }
+  },
+  "products": {
+    "categories": "Categories",
+    "all": "All",
+    "addedToCart": "%s added to cart!",
+    "categoryNames": {
+      "Electronics": "Electronics",
+      "Accessories": "Accessories"
+    },
+    "keyFeatures": "Key Features",
+    "specifications": "Specifications"
+  },
+  "about": {
+    "title": "About Tanoxi Technology",
+    "introduction": "In 2022, we founded Tanoxi Technology in Nansha, the heart of the Guangdong-Hong Kong-Macao Greater Bay Area. Powered by the innovation engine of HKUST(GZ), we unite top global talent to focus on fourth-generation wide bandgap semiconductor technologies.",
+    "commitment": "Tanoxi Technology is committed to independent innovation. We have filed seven core technology patents, covering key processes such as gallium oxide epitaxial growth, ion implantation doping, and device structure design.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "At Tanoxi Technology, our mission is to bring gallium oxide semiconductor technology from lab to industry—and to the world. Driven by innovation, connected by technology—Tanoxi Technology is pioneering the future of semiconductors!"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We hope to drive revolutionary applications of gallium oxide in next-generation semiconductor technologies."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "quality": {
+        "title": "Quality",
+        "description": "We never compromise on product quality"
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We conduct business with the highest ethical standards"
+      },
+      "customerFirst": {
+        "title": "Customer First",
+        "description": "Customer satisfaction is our top priority"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously strive to improve and innovate"
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "members": {
+        "member1": {
+          "name": "Sarah Chen",
+          "role": "Chief Executive Officer & Founder"
+        },
+        "member2": {
+          "name": "Michael Zhang",
+          "role": "Operations Manager"
+        },
+        "member3": {
+          "name": "Emily Wang",
+          "role": "Customer Relations Director"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Thank you for your message. We will get back to you soon!"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your Cart is Empty",
+    "browseProducts": "Browse our products and add something to your cart",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "remove": "Remove",
+    "quantity": "Quantity",
+    "contactPurchase": "Contact for Purchase"
+  }
+}
